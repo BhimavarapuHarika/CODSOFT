@@ -10,7 +10,7 @@ PROJECT SUMMARY
 
 The project can be briefly summarized in the following steps:
 
-* Data understanding: Here, we need to load the data and understand the features in it. This would help us choose the features and targets that we will need for the model.
+* Data understandings: Here, we need to load the data and understand the features in it. This would help us choose the features and targets that we will need for the model.
 
 * Exploratory Data Analysis: In this step, we need to perform data analysis and, if needed, feature modifications. checking and observing the distribution of classes and correlation in the data.
 
