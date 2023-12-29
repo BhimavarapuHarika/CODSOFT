@@ -19,3 +19,7 @@ The project can be briefly summarized in the following steps:
 * Model Creation/Building: This is the step at which we can try different models until we get the desired level of performance on the given dataset. We should try and see if we get a better model by various sampling techniques.
 
 * Model Evaluation: We need to evaluate the model using appropriate evaluation metrics. In this project, we took a confusion matrix and a classification report, which includes precision, recall,f1-score, and support.
+
+RESULT
+
+The Random forest classifier performed the best, giving an accuracy of 97% compared with the other models 
